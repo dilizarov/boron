@@ -1,0 +1,27 @@
+{
+  "name": "boron",
+  "description": "A collection of dialog animations with React.js",
+  "main": "Boron.js",
+  "dependencies" : {
+    "dommkitt": "latest"
+  },
+  "authors": [
+    "Yuanyan Cao"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "dialog",
+    "modal"
+  ],
+  "homepage": "https://github.com/dilizarov/boron",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
